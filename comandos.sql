@@ -10,3 +10,12 @@ Te invito a preparar el ambiente para iniciar con nuestro entrenamiento. ¡Éxit
 Llegó del momento de practicar los comandos que aprenderás durante el desarrollo de esta clase. 
 
 Recuerda que nuestro foro está a disposición en caso de que tengas inquietudes. */
+
+
+/* PROYECTO DEL AULA ANTERIOR 2 
+
+Conexiones de MySQL y Servicios de Windows.
+
+Recuerda que nuestro foro está a disposición en caso de que tengas inquietudes. */
+
+
