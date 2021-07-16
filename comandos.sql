@@ -19,3 +19,12 @@ Conexiones de MySQL y Servicios de Windows.
 Recuerda que nuestro foro está a disposición en caso de que tengas inquietudes. */
 
 
+/* PROYECTO DEL AULA ANTERIOR 3 */
+
+SHOW GLOBAL STATUS LIKE 'Created_tmp_disk_tables';
+
+SHOW GLOBAL STATUS LIKE 'Created_tmp_tables';
+
+SHOW GLOBAL VARIABLES LIKE 'tmp_table_size';
+
+SET GLOBAL tmp_table_size = 136700160;
